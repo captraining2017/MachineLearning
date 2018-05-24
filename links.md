@@ -8,3 +8,7 @@
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/courses.html)
 - [Mallet](http://mallet.cs.umass.edu/quick-start.php)
 - [Elki](https://elki-project.github.io/tutorial/)
+
+# Java Platform
+
+- [Platform](https://skymind.ai/platform)
