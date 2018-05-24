@@ -1,8 +1,8 @@
-#Machine Learning Links
+# Machine Learning Links
 https://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html
 
-#Java ML Libs
+# Java ML Libs
 https://deeplearning4j.org/quickstart
 https://moa.cms.waikato.ac.nz/getting-started/
 https://www.cs.waikato.ac.nz/ml/weka/courses.html
