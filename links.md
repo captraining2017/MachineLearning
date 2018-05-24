@@ -14,6 +14,9 @@
 - [Mallet](http://mallet.cs.umass.edu/quick-start.php)
 - [Elki](https://elki-project.github.io/tutorial/)
 
+# Python Links
+- [Scipy](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)
+
 # Java Platform
 
 - [Platform](https://skymind.ai/platform)
