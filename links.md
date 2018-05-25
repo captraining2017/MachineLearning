@@ -2,6 +2,8 @@
 - [Link 1](https://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html)
 - [Link 2](https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html)
 - [Who is going to leave next](https://lukesingham.com/whos-going-to-leave-next/)
+- [Types of machine learning implmentation with python](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
+- [Geeks for Geeks link](https://www.geeksforgeeks.org/python-programming-language/)
 
 # Machine Learning PDFs
 - [PDF 1](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
