@@ -22,5 +22,7 @@
 - [Scipy](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)
 
 # Java Platform
-
 - [Platform](https://skymind.ai/platform)
+
+# Collab Link 
+- (https://insiders.liveshare.vsengsaas.visualstudio.com/join?94569C57A70C5CEBA684531E5F6368F6A4B9)
