@@ -11,5 +11,6 @@
 - [Health Fraud](https://www.ripublication.com/ijaer18/ijaerv13n6_140.pdf)
 - [Healthcare-Fraud-Detection](https://www.fujitsu.com/us/Images/Services-Lean-Healthcare-Fraud-Detection-factsheet.pdf)
 - [DP_Fraud_detection_HEALTHCARE](https://www.acl.com/pdfs/DP_Fraud_detection_HEALTHCARE.pdf)
+- [Fraud and Abuse](https://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/downloads/fraud_and_abuse.pdf)
 
 https://insiders.liveshare.vsengsaas.visualstudio.com/join?F83B03CD72515DD50C0FCD007BE1BAD8FF70
