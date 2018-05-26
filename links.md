@@ -12,5 +12,10 @@
 - [Healthcare-Fraud-Detection](https://www.fujitsu.com/us/Images/Services-Lean-Healthcare-Fraud-Detection-factsheet.pdf)
 - [DP_Fraud_detection_HEALTHCARE](https://www.acl.com/pdfs/DP_Fraud_detection_HEALTHCARE.pdf)
 - [Fraud and Abuse](https://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/downloads/fraud_and_abuse.pdf)
-
+- [Claim Codes](https://www.public-health.uiowa.edu/wp-content/uploads/2016/05/Prov-Specialty-and-Prov-Types.pdf)
+- [Billing Codes](https://www.ctdssmap.com/CTPortal/Information/Get%20Download%20File/tabid/44/Default.aspx?Filename=WebTaxonomy_Crosswalk.pdf&URI=Forms/WebTaxonomy_Crosswalk.pdf)
+- [Provider Type Details](http://www.dhs.pa.gov/cs/groups/public/documents/communication/s_002145.pdf)
 https://insiders.liveshare.vsengsaas.visualstudio.com/join?F83B03CD72515DD50C0FCD007BE1BAD8FF70
+
+# Random Dataset Generator
+- [Random Dataset](https://mockaroo.com/)
