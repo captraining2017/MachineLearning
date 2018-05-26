@@ -6,3 +6,8 @@
 
 # Python Links
 - [Scipy](https://docs.scipy.org/doc/scipy/reference/tutorial/general.html)
+
+# Health Insuarance
+- [Health Fraud](https://www.ripublication.com/ijaer18/ijaerv13n6_140.pdf)
+
+https://insiders.liveshare.vsengsaas.visualstudio.com/join?F83B03CD72515DD50C0FCD007BE1BAD8FF70
