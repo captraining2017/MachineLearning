@@ -16,6 +16,10 @@
 - [Billing Codes](https://www.ctdssmap.com/CTPortal/Information/Get%20Download%20File/tabid/44/Default.aspx?Filename=WebTaxonomy_Crosswalk.pdf&URI=Forms/WebTaxonomy_Crosswalk.pdf)
 - [Provider Type Details](http://www.dhs.pa.gov/cs/groups/public/documents/communication/s_002145.pdf)
 https://insiders.liveshare.vsengsaas.visualstudio.com/join?F83B03CD72515DD50C0FCD007BE1BAD8FF70
+- [Claim Type](https://www.resdac.org/cms-data/variables/nch-claim-type-code)
+- [Claim service code](https://www.resdac.org/cms-data/variables/Claim-Service-classification-Type-Code)
+- [Claim Status code](http://www.x12.org/codes/health-care-claim-status-codes/)
+- [Product type](https://ushik.ahrq.gov/ViewItemDetails?system=sdo&itemKey=133161000)
 
 # Random Dataset Generator
 - [Random Dataset](https://mockaroo.com/)
