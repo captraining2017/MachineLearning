@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #names=pd.read_csv('C:/Users/lnc/Downloads/names/yob1880.txt')
-bil=pd.read_excel('C:/Users/lnc/Downloads/UNIQUE_HOSPITAL_ID.xls')
+bil=pd.read_excel('W:/machinelearning/MachineLearningProj/UNIQUE_HOSPITAL_ID.xls')
 
 #names=pd.DataFrame(names[0:100]).values[:,:1].tolist()
 
