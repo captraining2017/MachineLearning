@@ -1,0 +1,7 @@
+Group Id,pid,Channel,Network Indicator,Payee Indicator
+1,101,1,1,1
+2,102,2,0,1
+3,103,2,1,0
+4,104,2,1,0
+5,105,1,0,0
+6,106,3,1,1

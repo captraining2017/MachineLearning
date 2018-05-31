@@ -1,0 +1,21 @@
+Claim ID,Claim Type,Total Charge ,Place Of Service Code,Place of Service Description,Claim Input Date,Member Admission Date,Member Discharge Date,Total Benefit Amount,Primary Diagnosis Code,Primary Procedure Code,Emergancy Indicator,Claim Process Status,Claim Reject Code,Claim Reject Reason,ins_id,mid,rpc,bpc,RESULT
+1010,1,324140,8814,Retroperiton fistulogram,10/02/2014,28/01/2014,28/02/2014,989517,8251,7092,0,1,400,Incision of lymphatic structures,,1004,,13,1
+1020,2,121817,9183,C & s NEC,14/01/2006,14/01/2007,17/01/2007,827049,8192,9002,0,1,9327,Stretching of muscle or tendon,10006,,,12,1
+1030,1,407291,9186,Cell blk/pap NEC,28/02/2008,08/02/2008,08/04/2008,545232,7351,7849,1,1,6241,Removal of both testes at same operative episode,,1003,202,,1
+1040,7,479419,3323,Other bronchoscopy,08/12/2018,08/10/2018,18/10/2018,848400,7870,522,0,1,8931,Dental examination,10004,,202,,0
+1050,4,233428,763,Part excis pituitary NOS,28/04/2002,20/04/2002,20/06/2002,500652,7301,2129,1,1,9859,Extracorporeal shockwave lithotripsy of other sites,,1002,202,,1
+1060,4,286657,9786,Remove abdomen device NEC,18/05/2009,18/04/2009,28/04/2009,698320,8462,9931,1,0,3800,"Incision of vessel, unspecified site",10001,,203,,1
+1070,3,401165,6909,D & C NEC,14/01/2006,10/01/2006,10/08/2006,949478,8365,8098,1,1,6382,Reconstruction of surgically divided vas deferens,,1002,,12,1
+1080,5,252547,391,Anesth inject-spin canal,08/02/2008,08/02/2007,08/06/2007,757499,5788,4542,1,0,1919,Other stapedectomy,10006,,202,,1
+1090,2,162645,7062,Vaginal reconstruction,28/02/2005,28/12/2004,31/12/2004,845445,5839,3972,1,1,7551,Repair of current obstetric laceration of cervix,10002,,,12,1
+1100,3,232139,8894,Mri musculoskeletal,09/12/2008,09/10/2008,09/08/2008,596401,3473,9185,1,1,7812,"Application of external fixator device, humerus",10004,,203,,0
+1110,7,373291,8582,Breast split-thick graft,14/01/2006,06/01/2006,06/05/2006,500781,8535,3991,0,1,842,Repair of entropion or ectropion by suture technique,,1004,,14,0
+1120,7,103939,2411,Gum biopsy,08/01/2014,01/01/2014,11/01/2014,995992,6522,7271,0,0,9506,Color vision study,10005,,201,,1
+1130,1,256169,7918,Close red-int fix toe fx,28/12/2018,10/12/2018,10/01/2019,582421,6831,9045,1,1,344,Excision or destruction of lesion of chest wall,10005,,202,,1
+1140,7,479335,697,Insertion of iud,05/11/2001,01/10/2001,01/11/2001,909184,2732,7888,0,1,8964,Pulmonary artery wedge monitoring,10004,,,11,0
+1150,9,377121,9605,Resp tract intubat NEC,08/02/2008,08/12/2007,28/12/2007,525508,4931,7828,1,0,7753,Other bunionectomy with soft tissue correction,10006,,202,,0
+1160,6,226851,39,Other CAS,15/07/2001,15/05/2001,25/05/2001,831711,5900,3852,0,0,7828,"Limb shortening procedures, tarsals and metatarsals",,1002,203,,1
+1170,3,111442,9947,Rubella vaccination,05/11/2001,05/10/2001,05/11/2001,512152,6199,721,1,1,2931,Cricopharyngeal myotomy,10001,,,15,1
+1180,7,381645,9962,Heart countershock NEC,05/10/2011,01/09/2011,11/09/2011,761777,1475,8197,0,1,436,Partial gastrectomy with anastomosis to duodenum,10001,,204,,1
+1190,8,182633,496,Excision of anus,08/12/2018,08/10/2018,18/11/2018,545108,944,2764,0,1,2349,Other dental restoration,,1002,,15,1
+1200,7,187547,9602,Insert oropharyn airway,04/11/2002,04/10/2002,09/12/2002,756228,5194,3194,1,1,3734,"Excision or destruction of other lesion or tissue of heart, endovascular approach",,1001,,15,0
